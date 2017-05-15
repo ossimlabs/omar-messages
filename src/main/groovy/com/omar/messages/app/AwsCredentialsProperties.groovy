@@ -1,6 +1,5 @@
 package com.omar.messages.app
 
-import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import groovy.transform.ToString;
 
